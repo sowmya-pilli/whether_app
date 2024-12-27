@@ -87,7 +87,7 @@ main li{
 main ul li i{
     font-size: 2em;
     margin: 20px 0;
-    display: block!important;
+    display: block;
 }
 main li:nth-child(2){
     background-color: #b56291;
